@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/BookmarkFilled -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M6,5C6,4.44772 6.44772,4 7,4H17C17.5523,4 18,4.44772 18,5V18.1315C18,18.9302 17.1099,19.4066 16.4453,18.9635L12.5547,16.3698C12.2188,16.1459 11.7812,16.1459 11.4453,16.3698L7.5547,18.9635C6.89014,19.4066 6,18.9302 6,18.1315V5Z"
+        android:fillColor="#000000" />
+</vector>

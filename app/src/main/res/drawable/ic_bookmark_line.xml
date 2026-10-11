@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/BookmarkLine -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M7,4.59961H17C17.2209,4.59961 17.4004,4.77909 17.4004,5V18.1318C17.4001,18.4511 17.044,18.641 16.7783,18.4639L12.8877,15.8701C12.3503,15.5119 11.6497,15.5119 11.1123,15.8701L7.22168,18.4639C6.95596,18.641 6.59987,18.4511 6.59961,18.1318V5C6.59961,4.77909 6.77909,4.59961 7,4.59961Z"
+        android:strokeColor="#000000" android:strokeWidth="1.2" />
+</vector>

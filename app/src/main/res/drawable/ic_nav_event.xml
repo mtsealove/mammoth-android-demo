@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/Event -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M7.80679,7.42389C8.06958,6.75232 8.93521,6.57125 9.44514,7.08118L17.1823,14.8183C17.6922,15.3282 17.5111,16.1939 16.8396,16.4567L4.12855,21.4305C3.31649,21.7483 2.51515,20.947 2.83291,20.1349L7.80679,7.42389Z"
+        android:strokeColor="#000000" android:strokeWidth="2" />
+    <path android:pathData="M7.19934,10.4923L13.7711,17.0641"
+        android:strokeColor="#000000" android:strokeWidth="2" />
+    <path android:pathData="M5.32397,14.324L9.6759,18.676"
+        android:strokeColor="#000000" android:strokeWidth="2" />
+    <path android:pathData="M18.545,10.7436H21.545"
+        android:strokeColor="#000000" android:strokeWidth="2" android:strokeLineCap="round" />
+    <path android:pathData="M15.545,8.74356L19.545,4.74356"
+        android:strokeColor="#000000" android:strokeWidth="2" android:strokeLineCap="round" />
+    <path android:pathData="M13,5.56909L14.2123,2.00004"
+        android:strokeColor="#000000" android:strokeWidth="2" android:strokeLineCap="round" />
+    <path android:pathData="M9,3a1,1 0 1,0 2,0a1,1 0 1,0 -2,0z" android:fillColor="#000000" />
+    <path android:pathData="M17,2a1,1 0 1,0 2,0a1,1 0 1,0 -2,0z" android:fillColor="#000000" />
+    <path android:pathData="M21,6a1,1 0 1,0 2,0a1,1 0 1,0 -2,0z" android:fillColor="#000000" />
+    <path android:pathData="M20,13a1,1 0 1,0 2,0a1,1 0 1,0 -2,0z" android:fillColor="#000000" />
+</vector>

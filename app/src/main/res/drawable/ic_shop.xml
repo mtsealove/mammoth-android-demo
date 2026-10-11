@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/Shop -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M13.3846,9.55V18M13.3846,14.6688H4.38462M4.38462,9.55V14.6688M19.6154,9.55V18H4.38462V14.6688M3,9.55L5.07692,5H18.9231L21,9.55H3Z"
+        android:strokeColor="#000000" android:strokeWidth="1.2"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

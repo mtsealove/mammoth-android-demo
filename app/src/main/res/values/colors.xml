@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose 외부(스플래시/윈도우 배경 등)에서 참조하는 값만 둔다. 토큰 원본은 ui/theme/Color.kt -->
+    <color name="gray0">#FFFFFF</color>
+    <color name="gray9">#110F0D</color>
+    <color name="primary1">#76584C</color>
+</resources>

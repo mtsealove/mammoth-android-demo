@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/Brand -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="20" android:viewportHeight="20">
+    <path
+        android:pathData="M6.88538,14.6667H3.47308C3.02769,14.6667 2.66663,14.3057 2.66663,13.8603V6.66675H9.22913M6.88538,14.6667L9.22913,6.66675M6.88538,14.6667H13.4479M9.22913,6.66675H12.5104M13.4479,14.6667H16.8602C17.3056,14.6667 17.6666,14.3057 17.6666,13.8603V7.4732C17.6666,7.02781 17.3056,6.66675 16.8602,6.66675H12.5104M13.4479,14.6667L12.5104,6.66675"
+        android:strokeColor="#000000" android:strokeWidth="1" />
+    <path
+        android:pathData="M2.66663,7.66675V4.98933C2.66663,4.81117 2.81105,4.66675 2.98921,4.66675H9.52858C9.75272,4.66675 9.90855,4.88971 9.83151,5.1002L9.16663,6.91677"
+        android:strokeColor="#000000" android:strokeWidth="1" />
+</vector>

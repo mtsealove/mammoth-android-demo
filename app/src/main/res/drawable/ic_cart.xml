@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/Cart -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M4.24707,7.59961H15.7529C16.0088,7.59961 16.1991,7.83711 16.1436,8.08691L14.5879,15.0869C14.5472,15.2697 14.3855,15.4002 14.1982,15.4004H5.80176C5.61453,15.4002 5.45283,15.2697 5.41211,15.0869L3.85645,8.08691C3.80093,7.83711 3.99117,7.59961 4.24707,7.59961Z"
+        android:strokeColor="#000000" android:strokeWidth="1.2" android:strokeLineCap="round" />
+    <path android:pathData="M6,17.5H16M21.5,5.5H19.7808C19.3219,5.5 18.9219,5.8123 18.8106,6.25746L16.0964,17.1142"
+        android:strokeColor="#000000" android:strokeWidth="1.2"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M4.6,19a1.4,1.4 0 1,0 2.8,0a1.4,1.4 0 1,0 -2.8,0z"
+        android:strokeColor="#000000" android:strokeWidth="1.2" />
+    <path android:pathData="M14.6,19a1.4,1.4 0 1,0 2.8,0a1.4,1.4 0 1,0 -2.8,0z"
+        android:strokeColor="#000000" android:strokeWidth="1.2" />
+</vector>

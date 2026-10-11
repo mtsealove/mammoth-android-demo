@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/ClockFilled (안쪽 바늘이 흰색이라 tint 없이 쓴다) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp" android:height="16dp"
+    android:viewportWidth="16" android:viewportHeight="16">
+    <path android:pathData="M2,8a6,6 0 1,0 12,0a6,6 0 1,0 -12,0z" android:fillColor="#AFA8A5" />
+    <path android:pathData="M6.66675,5.33334L8.33341,8.33334L10.6667,7.33334"
+        android:strokeColor="#FCFAF8" android:strokeWidth="0.8"
+        android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

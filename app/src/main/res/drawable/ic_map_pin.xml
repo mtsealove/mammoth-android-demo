@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/MapPinFilled (안쪽 점이 흰색이라 tint 없이 그대로 쓴다) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp" android:height="16dp"
+    android:viewportWidth="16" android:viewportHeight="16">
+    <path
+        android:pathData="M8,2.2998C10.0551,2.2998 11.7001,3.89625 11.7002,5.83984C11.7002,6.16227 11.5888,6.62262 11.3838,7.18359C11.1814,7.73737 10.8973,8.3629 10.5742,9.00586C9.9284,10.2912 9.13611,11.6273 8.55371,12.5693C8.29437,12.9888 7.70563,12.9888 7.44629,12.5693C6.86389,11.6273 6.0716,10.2912 5.42578,9.00586C5.10274,8.3629 4.81862,7.73737 4.61621,7.18359C4.41118,6.62262 4.2998,6.16227 4.2998,5.83984C4.29989,3.89625 5.94494,2.2998 8,2.2998Z"
+        android:fillColor="#AFA8A5" android:strokeColor="#AFA8A5" android:strokeWidth="0.6" />
+    <path android:pathData="M6,6a2,2 0 1,0 4,0a2,2 0 1,0 -4,0z" android:fillColor="#FCFAF8" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/HomeLine -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M3.40477,8.36684L11.4048,2.44091C11.7584,2.17899 12.2416,2.17899 12.5952,2.44091L20.5952,8.36684C20.8498,8.55544 21,8.85354 21,9.17039V21C21,21.5523 20.5523,22 20,22H16.375C15.8227,22 15.375,21.5523 15.375,21V15.2222C15.375,14.6699 14.9273,14.2222 14.375,14.2222H9.625C9.07272,14.2222 8.625,14.6699 8.625,15.2222V21C8.625,21.5523 8.17728,22 7.625,22H4C3.44772,22 3,21.5523 3,21V9.17039C3,8.85354 3.15016,8.55543 3.40477,8.36684Z"
+        android:strokeColor="#000000" android:strokeWidth="2" />
+</vector>

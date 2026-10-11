@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/BottleTumbler -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path android:pathData="M17,5V4C17,3.44772 16.5523,3 16,3H8C7.44772,3 7,3.44772 7,4V5"
+        android:strokeColor="#000000" android:strokeWidth="1" />
+    <path
+        android:pathData="M7,5L7.2978,9.03174M17,5L16.696,9.11634M7.82192,16.1069L7.96493,20.0364C7.9845,20.5741 8.42614,21 8.96427,21H15.0358C15.5739,21 16.0155,20.5742 16.0352,20.0365L16.1785,16.1069"
+        android:strokeColor="#000000" android:strokeWidth="1" />
+    <path
+        android:pathData="M7.07031,9.5H16.9297C17.2191,9.50011 17.4484,9.74538 17.4287,10.0342L17.0195,16.0342C17.0016,16.2964 16.7834,16.4999 16.5205,16.5H7.47949C7.21665,16.4999 6.99842,16.2964 6.98047,16.0342L6.57129,10.0342C6.55406,9.7815 6.72742,9.5617 6.96484,9.51074L7.07031,9.5Z"
+        android:strokeColor="#000000" android:strokeWidth="1" />
+    <path android:pathData="M6,5H18"
+        android:strokeColor="#000000" android:strokeWidth="1" android:strokeLineCap="round" />
+</vector>

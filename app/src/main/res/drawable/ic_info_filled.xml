@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 웹 src/icons/design/InfoFilled (안쪽 기호가 흰색이라 tint 없이 쓴다) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp" android:height="16dp"
+    android:viewportWidth="16" android:viewportHeight="16">
+    <path android:pathData="M2,8a6,6 0 1,0 12,0a6,6 0 1,0 -12,0z" android:fillColor="#6096FF" />
+    <path android:pathData="M8,8V11.3333"
+        android:strokeColor="#FCFAF8" android:strokeWidth="0.8" android:strokeLineCap="round" />
+    <path android:pathData="M8,5V5.66667"
+        android:strokeColor="#FCFAF8" android:strokeWidth="0.8" android:strokeLineCap="round" />
+</vector>
